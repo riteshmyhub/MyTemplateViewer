@@ -1,0 +1,49 @@
+.home_five_footer{
+   height: 100vh; 
+   background-color: #EEE9E9;
+}
+.five_home_top_margin{
+    height: 130px;
+}
+.back_to_home{
+    text-align: center;
+    font-size: 1.2vw;
+    text-transform: uppercase;
+}
+.icon_back_to_home{
+    text-align: center;
+    font-size: 2.5vw;
+}
+.table_box{
+    height: auto;
+    background-color: transparent;  
+}
+tr{
+    color: black;
+    font-weight: 400;
+}
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border:none !important;
+}
+th{
+    color: #E31E24;
+    text-transform: uppercase;
+}
+.table_text{
+    color: #E31E24;
+    text-transform: uppercase;
+    font-size: 1.2vw;
+}
+.home_address{
+    text-align: start;
+}
+.home_social_link{
+    text-align: start;
+}
+.table_link{
+    text-align: start;
+    font-weight: 400;
+   
+}

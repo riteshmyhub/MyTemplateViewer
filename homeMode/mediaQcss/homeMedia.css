@@ -1,0 +1,179 @@
+
+@media screen and (max-width: 768px){
+    .navbar_link{
+        text-transform: uppercase;
+        font-size: 1.5vw;
+        margin-right: 15px;
+        color: #7B7B7A;
+        font-weight: bold;
+     } 
+     .logo_control{
+        width: 180px;
+        margin-left: 0px;
+    } 
+    .search_home_link{
+        font-size: 1.7vw;
+        text-transform: capitalize;
+        margin-left: 12px;
+        color: #7B7B7A;
+      }
+      .home_search_icon{
+        font-size: 2vw; 
+        color: #E31E24;
+        margin-right: 25px;
+        margin-bottom: 2px;
+    }
+    .home_bottom_nav_link{
+        font-size: 1.9vw;
+        text-transform: capitalize;
+        color: #7B7B7A; 
+    }
+    .home_search_icon{
+        font-size: 1.8vw; 
+        color: #E31E24;
+        font-weight: 600;
+    }
+    .language_text_right{
+        font-size: 1.3vw;
+    }
+    .language_text_left{
+        font-size: 1.3vw;
+    }
+ }
+ @media screen and (max-width: 767px){
+    .search_bar_icon{
+        font-size: 2.8vw; 
+        color: #E31E24;
+    }
+    .search_hide_element{
+        display: none;
+    }
+    .toggle_icon{
+        width: 7vw;
+    }
+    .navbar_link{
+        text-transform: uppercase;
+        font-size: 2vw;
+        margin-top: 15px;
+        margin-right: 15px;
+        color: #7B7B7A;
+        font-weight: bold;
+     } 
+     .nav_aria{
+        background-color: #E1E1E1; 
+        
+     }
+     .language_text_right{
+        font-size: 1.6vw;
+    }
+    .language_text_left{
+        font-size: 1.6vw;
+    }
+ }
+ @media screen and (max-width: 759px){
+    
+ }
+ @media screen and (max-width: 575px){
+    .search_home_link{
+        font-size: 2.4vw;
+      }
+      .home_custom_search_bar {
+        display: block;
+        width: 100%;
+        padding: 15px;
+        font-size: 2rem;
+        line-height: 1.5;
+        color: #E31E24;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid white;
+        border-radius: 2.25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+        font-size: 2vw;
+    }
+    input::placeholder {
+        color: black;
+        font-size: 2.8vw;
+        
+      }
+      .logo_control{
+        width: 170px;
+        margin-left: 0px;
+    }
+    .search_bar_icon{
+        font-size: 5vw; 
+        color: #E31E24;
+        margin-left: 10px;
+    }
+    .navbar_link{
+        font-size: 2.3vw;
+     }
+     .language_text_right{
+        font-size: 1.8vw;
+    }
+    .language_text_left{
+        font-size: 1.8vw;
+    }
+    .toggle_icon{
+        width: 9vw;
+    }
+ }
+ @media screen and (max-width: 575px){
+    .language_text_right{
+        font-size: 1.7vw;
+    }
+    .language_text_left{
+        font-size: 1.7vw;
+    }
+    .home_custom_search_bar{
+        font-size: 3vw;
+    } 
+ }
+ @media screen and (max-width: 576px){
+    
+ }
+ 
+ @media screen and (max-width:  437px){
+    .language_text_right{
+        padding: 0px;
+    }
+    .language_text_left{
+        padding: 0px;
+    } 
+    .toggle_icon{
+        width: 13vw;
+    }
+    .home_bottom_nav_link{
+        font-size: 2.4vw;
+    }
+ }
+ @media screen and (max-width:  426px){
+    .language_text_right{
+        font-size: 1.4vw;
+    }
+    .language_text_left{
+        font-size: 1.5vw;
+    } 
+ }
+ @media screen and (max-width:  414px){
+    .navbar_link{
+        font-size: 2.6vw;
+     }  
+     .search_home_link{
+        font-size: 3.2vw;
+      }
+      .home_custom_search_bar {
+        font-size: 3.6vw;
+    }
+    input::placeholder {
+        color: black;
+        font-size: 3.6vw;
+        
+      }
+ }
+ @media screen and (max-width:  360px){
+    .toggle_icon{
+        width: 14vw;
+    }
+ }
+ 

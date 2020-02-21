@@ -1,0 +1,229 @@
+@media screen and (max-width: 991px){
+  .toggle_icon_sub_home{
+    width: 5.5vw;
+  }
+  .navbar_link_sub_home{
+     font-size: 2.5vw;
+     margin-left: 15px;
+  }
+  .sub_home_nav_search_bar{
+    padding: 4px;
+    font-size: 1.5rem;
+  }
+  .sub_home_nav_search_bar::placeholder{
+      font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 800px){
+    .toggle_icon_sub_home{
+        width: 7vw;
+      }
+      .navbar_link_sub_home{
+        font-size: 1.3vw;
+        margin-left: 15px;
+     }
+     .sub_home_nav_search_bar{
+       padding: 4px;
+       font-size: 1.5rem;
+     }
+     .sub_home_nav_search_bar::placeholder{
+         font-size: 1.5rem;
+     }
+      .sub_home_left_icon_text{
+          font-size: 6vw;
+        }
+        .sub_home_left_icon_sub_text{
+          font-size: 3.5vw;
+        }
+        .sub_home_grid_six_number{
+
+          font-size: 5.5vw;
+        }
+        .sub_home_grid_six_text{
+
+          font-size: 2.5vw;
+        } 
+        
+}
+@media screen and (max-width: 768px){
+    
+    .navbar_link_sub_home{
+        font-size: 2vw;
+        margin-left: 15px;
+     }
+    .toggle_icon_sub_home{
+      width: 6vw;
+    }
+    .sub_home_nav_search_bar::placeholder{
+        color: black;
+          font-size: 1.8vw;
+      }
+    .sub_home_left_icon_text{
+        font-size: 4.5vw;
+      }
+      .sub_home_left_icon_sub_text{
+ 
+        font-size: 2.9vw;
+      }
+      .sub_home_grid_six_number{
+
+        font-size: 5.5vw;
+      }
+      .sub_home_grid_six_text{
+        font-size: 2.5vw;
+      }
+      
+  }
+  @media screen and (max-width: 600px){
+     .navbar_link_sub_home{
+        font-size: 3vw;
+        margin-left: 15px;
+     }
+     .sub_home_nav_search_bar{
+       padding: 4px;
+       font-size: 1.5rem;
+       background: transparent;
+     }
+     .sub_home_nav_search_bar::placeholder{
+         font-size: 1.5rem;
+     }
+    .toggle_icon_sub_home{
+        width: 8.5vw;
+      }
+      .sub_home_left_icon_text{
+        font-size: 5vw;
+      }
+      .sub_home_left_icon_sub_text{
+ 
+        font-size: 3.4vw;
+      }
+      .sub_home_grid_six_number{
+
+        font-size: 6vw;
+      }
+      .sub_home_grid_six_text{
+        font-size: 3vw;
+      }
+  }
+  @media screen and (max-width: 480px){
+    .navbar_link_sub_home{
+        font-size: 4vw;
+        margin-left: 15px;
+     }
+     .sub_home_nav_search_bar{
+       padding: 4px;
+       font-size: 1.5rem;
+       background: transparent;
+     }
+     .sub_home_nav_search_bar::placeholder{
+         font-size: 1.5rem;
+     }
+    .toggle_icon_sub_home{
+        width: 11vw;
+      }
+      .sub_home_left_icon_text{
+        font-size: 4.7vw;
+      }
+      .sub_home_left_icon_sub_text{
+ 
+        font-size: 3.2vw;
+      }
+      
+  }
+  @media screen and (max-width: 450px){
+    .toggle_icon_sub_home{
+        width: 11vw;
+      }
+      .sub_home_left_icon_text{
+        font-size: 4.6vw;
+      }
+      .sub_home_left_icon_sub_text{
+        font-size: 3.4vw;
+      }
+      .sub_home_two_grid_icon{
+        width: 40px;
+        margin-top: 9px;
+      }
+  }
+  @media screen and (max-width: 414px){
+      
+    .sub_home_nav_search_bar{
+        padding: 2px;
+        font-size: 1.2rem;
+        background: transparent;
+      }
+      .sub_home_nav_search_bar::placeholder{
+          font-size: 1.2rem;
+      }
+    .toggle_icon_sub_home{
+        width: 11vw;
+      }
+      .sub_home_left_icon_text{
+        font-size: 4.6vw;
+      }
+      .sub_home_left_icon_sub_text{
+        font-size: 3.4vw;
+      }
+      .sub_home_two_grid_icon{
+        width: 35px;
+        margin-top: 9px;
+      }
+      .sub_home_grid_six_number{
+
+        font-size: 5.2vw;
+      }
+      .sub_home_grid_six_text{
+        font-size: 2.2vw;
+      }
+      .sub_grid_left_padding{
+        padding-left: 11px;
+      }
+      .sub_grid_padding{
+        padding: 10px;
+      }
+      .logo_control_sub_home{
+        width: 160px;
+          margin-left: 16px;
+      }
+  }
+  @media screen and (max-width: 360px){
+    .sub_home_margin{
+        height: 130px;
+      }
+      .logo_control_sub_home{
+        width: 130px;
+          margin-left: 16px;
+      }
+      .sub_home_grid_six_padding{
+        padding: 7px;
+     }
+  }
+  @media screen and (max-width: 360px){
+    .sub_home_margin{
+        height: 130px;
+      }
+      .logo_control_sub_home{
+        width: 130px;
+          margin-left: 16px;
+      }
+      .sub_home_grid_six_padding{
+        padding: 5px;
+     }
+     .sub_home_grid_six_number{
+
+        font-size: 5vw;
+      }
+      .sub_home_grid_six_text{
+        font-size: 2.1vw;
+      }
+      .sub_home_two_grid_icon{
+        width: 30px;
+        margin-top: 2px;
+      }
+      .sub_home_left_icon_text{
+        font-size: 4vw;
+      }
+      .sub_home_left_icon_sub_text{
+        font-size: 3vw;
+      }
+  }
