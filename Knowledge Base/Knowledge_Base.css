@@ -1,0 +1,247 @@
+.god_css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Knowledge_path{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 700;
+    color: gray;
+}
+.Knowledge_heading{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700;
+    color: #E31E24;
+}
+.Knowledge_row{
+  width: 95% !important;
+  background: rgba(255,255,255,1);
+background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 23%, rgba(24,23,23,1) 24%, rgba(24,23,23,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(23%, rgba(246,246,246,1)), color-stop(24%, rgba(24,23,23,1)), color-stop(100%, rgba(24,23,23,1)));
+background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 23%, rgba(24,23,23,1) 24%, rgba(24,23,23,1) 100%);
+background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 23%, rgba(24,23,23,1) 24%, rgba(24,23,23,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 23%, rgba(24,23,23,1) 24%, rgba(24,23,23,1) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 23%, rgba(24,23,23,1) 24%, rgba(24,23,23,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#181717', GradientType=1 );
+
+}
+.Knowledge_row_paragraph{
+    font-size: 20px;
+    text-align: start;
+    color: white;
+    font-weight: 350;
+}
+.Access_Student_btn{
+    background-color: #E31E24;
+    border-radius: 30px !important;
+    color: white;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    padding-left: 28px !important;
+    padding-right: 12px !important;
+    box-shadow: none !important;
+}
+.Access_Student_btn:hover{
+    background-color: white;
+    border-radius: 30px !important;
+    color: #E31E24;
+    font-size: 20px !important;
+}
+
+.Access_Student_ico{
+  background: white;
+  width: 40px;
+  padding: 8px;
+  border-radius: 25px;
+}
+.button_text{
+    text-align: center;
+    font-size: 1.5vw;
+}
+.KnowledgeBase_grid_img{
+    width: 100% !important;
+}
+.Asked_Questions_container{
+    width: 91% !important;
+    background: rgba(235,235,235,1);
+background: -moz-linear-gradient(-45deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(235,235,235,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-linear-gradient(-45deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%);
+background: linear-gradient(135deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebebeb', endColorstr='#ffffff', GradientType=1 );
+}
+.Asked_Questions_text{
+ color: rgb(22, 22, 22);
+ font-size: 2.4vw;
+}
+.Go_to_Area{
+  color: #E8484D;
+  font-size: 1.9vw;
+  font-weight: 650;
+}
+.Information_ico{
+ width: 6.9vw;
+}
+/* --------------------------page 2------------------------ */
+.Student_Center_BG{
+ background-color: rgb(236, 234, 234);
+}
+.Student_Center_img{
+    background-image: url(./img/img_student_center.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.Student_Center_heading{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+}
+.student_Categories{
+    font-size: 1.2vw;
+    font-weight: 700;
+    cursor: pointer;
+}
+.student_Tags{
+    font-size: 1.2vw;
+    font-weight: 700;
+    cursor: pointer;
+}
+.student_search_bg{
+    background-color: white;
+    width: 94% !important;
+    position: relative;
+    top: -124px;
+}
+.student_search_bar{
+ border: none !important;
+ box-shadow: none !important;
+}
+.S_search_bg{
+    background: transparent!important;
+    border: none !important;
+}
+/* all card */
+.card_ui{
+
+}
+.No_blue_line{
+    text-decoration: none !important;
+}
+.card_date{
+    text-align: start;
+    font-size: 1.1vw;
+    font-weight: 500;
+    text-decoration: none;
+    color: gray;
+  }
+  .card_heading{
+    text-align: start;
+    font-size: 1.6vw;
+    font-weight: 600;
+    color: black;
+}
+.scrollbar
+{
+	height: 100px;
+	width: 100%;
+	background: white;
+  overflow-y: scroll;
+  cursor: pointer;
+}
+
+.force-overflow
+{
+	min-height: 200px;
+}
+
+
+#style-3::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.3);
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar
+{
+	width: 4px;
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb
+{
+	background-color: #E31E24;
+}
+.card_description{
+    font-size: 1.2vw;
+    font-weight: 450;
+}
+.read_more{
+    text-align: start; 
+    font-size: 1.2vw;
+    color: #E31E24;
+    font-weight: bolder;
+}
+/* Student_All_Resources_btn */
+.Student_All_Resources_btn{
+    background-color: white;
+    border: 1px solid #E31E24 !important;
+    border-radius: 22px !important;
+    color: #E31E24;
+    box-shadow: none !important;
+    font-weight: 700 !important;
+}
+.Student_All_Resources_btn:hover{
+    background-color: #E31E24;
+    color: white;
+}
+
+/* --------------------------page 3------------------------ */
+
+.FAQs_heading{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700;
+    color: #E31E24;
+}
+.FAQs_bg{
+    background-image: url(./img/FQsBg.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+.FAQs_Q{
+    font-size: 18px;
+    font-weight: 650;
+    color: rgb(48, 46, 46);
+    cursor: pointer;
+}
+.Student_FQs_btn{
+    background-color: #F6F6F6;
+    border: 1px solid #E31E24 !important;
+    border-radius: 22px !important;
+    color: #E31E24;
+    box-shadow: none !important;
+    font-weight: 700 !important;
+}
+.Student_FQs_btn:hover{
+    background-color: #E31E24;
+    border-radius: 22px !important;
+    color: white;
+}
+.FAQs_path{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 700;
+    color: gray;
+}

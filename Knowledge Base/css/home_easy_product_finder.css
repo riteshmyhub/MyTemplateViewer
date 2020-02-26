@@ -1,0 +1,97 @@
+.god_css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.address_contect_bar{
+    color: #7B7B7A;
+    font-size: 1vw;
+    font-weight: bold;
+}
+.address_contect_bar_right{
+    color: #7B7B7A;
+    font-size: 1vw;
+    text-align: end;
+    font-weight: bold;
+}
+.logo_control_home_product_finder{
+    width: 170px;
+}
+.easy_product_finder_page{
+    height: 100vh;
+    background-color: rgb(238, 233, 233);
+}
+/*  */
+.easy_product_finder_heading{
+    color: #E31E24;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 2.3vw;
+    font-weight: bold;
+    margin-top: 28px;
+}
+.easy_product_finder_tagline{
+    color: #E31E24;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.1vw;
+}
+/* nav module */
+.nav_module_aria{
+    height: auto;
+    background-color: #E31E24;
+    padding: 25px;
+    border-radius: 50px;
+}
+.nav_module_link_aria{
+    background: white;
+    padding: 14px;
+    border-radius: 35px;
+    z-index: 2;
+}
+
+.finder_nav_number{
+   width: 40px;
+   height: 40px;
+   background-color: #E31E24;
+   border-radius: 25px;
+}
+.nav_number{
+    color: white;
+    font-size: 1.5vw;
+}
+.find_link_container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.finder_nav_link{
+    font-size: 1.5vw;
+    text-transform: capitalize;
+    color: black;
+   
+}
+.product_finder_img{
+    width: 250px;
+    position: absolute;
+    left: 57px;
+    top: 277px;
+    z-index: 1;
+   
+}
+.product_finder_pading_control{
+    padding: 100px;
+}
+.easy_product_finder_right{
+  text-align: end; 
+  font-size: 1.3vw; 
+}
+.easy_product_finder_left{
+    text-align: start;
+    font-size: 1.3vw;   
+  }
+.easy_product_finder_center{
+    text-align: center;
+    font-size: 1.3vw;   
+  }

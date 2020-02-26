@@ -1,0 +1,51 @@
+.fourth_home_main_page{
+    background-color: #E1E1E1;
+    height: 100vh;
+}
+.fourth_home_grid{
+    height: auto;
+    background-color: #E1E1E1;
+    padding: 40px;
+}
+.fourth_home_top_margin{
+    height: 130px;
+}
+.fourth_home_heading{
+    text-align: center;
+    color: rgb(71, 67, 67);
+    font-style: italic;
+    font-size: 2vw;
+}
+.fourth_home_sub_text{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 1.3vw;
+}
+.person_name{
+  text-align: center;
+  text-transform: capitalize;
+  color: #E31E24;
+  margin-top: 20px;
+  font-size: 1.4vw;
+  font-weight: bolder;
+}
+.person_post{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5vw;
+    font-weight: 400;
+    font-style: italic;
+}
+.fourth_home_icon_row{
+  height: auto;
+  background-color: #E1E1E1;
+  padding: 40px;
+}
+
+.fourth_home_grid_icon{
+    width: 4.7vw;
+    background: white;
+    border-radius: 40px;
+    padding: 6px;
+  }
