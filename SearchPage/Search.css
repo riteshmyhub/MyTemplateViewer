@@ -1,0 +1,21 @@
+.god_css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchPage_bg{
+    background: rgba(255,255,255,1);
+}
+.custom_main_case_searchBar{
+    background-color: transparent!important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.main_search_box{
+    border: 1px solid gray !important;
+    border-radius: 50px !important;
+}
+.search_page_bar_ico{
+    font-size: 30px;
+    color: #E31E24;
+}
