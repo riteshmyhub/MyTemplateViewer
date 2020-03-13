@@ -1,0 +1,14 @@
+.timeline_bg{
+    background: #E1E1E1;
+}
+.change_time_line_heading{
+    color: #EC1C24;
+    font-size: 3.5vw;
+    font-weight: 700;
+}
+.change_time_line_text{
+    color: black;
+    font-weight: 400;
+    font-size: 2.5vw;
+}
+
