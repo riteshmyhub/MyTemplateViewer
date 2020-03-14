@@ -1,5 +1,7 @@
 .timeline_bg{
-    background: #E1E1E1;
+    background-image: url(./img/timeLimgBg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .change_time_line_heading{
     color: #EC1C24;
